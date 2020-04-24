@@ -1,0 +1,2 @@
+这几个脚本是为了用zabbix监控到problem后用钉钉报警
+这些脚本放在/usr/lib/zabbix/alertscripts
